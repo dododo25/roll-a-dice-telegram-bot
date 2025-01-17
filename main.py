@@ -24,8 +24,8 @@ help_list_str = '''
 	⚀⚁⚂⚃⚄ - five high straight
 	⚁⚂⚃⚄⚅ - six high straight
 	⚂⚂⚂⚄⚄ - full house
-	⚃⚃⚃⚃⚀ - four of a king
-	⚅⚅⚅⚅⚅ - five of a king
+	⚃⚃⚃⚃⚀ - four of a kind
+	⚅⚅⚅⚅⚅ - five of a kind
     '''
 
 if __name__ == '__main__':
