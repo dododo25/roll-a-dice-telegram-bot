@@ -9,6 +9,7 @@ import threading
 import time
 
 from collections import Counter
+from constants import TOKEN
 
 help_str = '''
 Dice Poker - your goal is to get the combination of dice throws that is higher by value that your opponent`s have. 
@@ -29,7 +30,7 @@ help_list_str = '''
     '''
 
 if __name__ == '__main__':
-    bot = telebot.TeleBot(sys.argv[1])
+    bot = telebot.TeleBot(TOKEN)
 else:
     sys.exit(0)
 

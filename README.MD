@@ -1,4 +1,4 @@
-### Roll a Dice
+# Roll a Dice
 
 ## Description
 This is a source code of a Telegram bot. "Roll a Dice" is a game between two playes where each of them are gonna roll some dice and then the winner is decided.
